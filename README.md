@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**aliforus/aliforus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hi, I'm Alik., Web Developer</h1>
+<p align="center">
+  <samp>
+    <a href="https://twitter.com/aliforus"> 💠 Twitter </a>
+    <a href="https://www.linkedin.com/in/jesus-daniel-cuentas-760637213/"> 🧐📸 linkedin </a>
+  </samp>
+ </p>
+<ul align="center">
+  <ol> 👷 I am currently developing private projects </ol>
+  <ol> 🤓 I am currently learning new technologies</ol>
+  <ol> ✨ I am currently looking to create new ties and many contacts!</ol>
+  <ol> 🦙 The fun in life is being constantly changing. ⚛</ol>  
